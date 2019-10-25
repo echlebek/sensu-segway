@@ -1,4 +1,4 @@
 # sensu-segway
 Nothing to see here, move along
 
-![A picture of an idiot on a Segway](gob.jpg?raw=true "sensu-segway" =300x)
+<img src="https://raw.githubusercontent.com/echlebek/sensu-segway/master/gob.jpg" alt="a picture of an idiot on a segway" width="300"/>
